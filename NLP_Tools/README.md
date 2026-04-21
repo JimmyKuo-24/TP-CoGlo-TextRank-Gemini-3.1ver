@@ -1,2 +1,3 @@
-https://nlp.stanford.edu/projects/glove//n
+https://nlp.stanford.edu/projects/glove/
+
 https://stanfordnlp.github.io/CoreNLP/download.html
